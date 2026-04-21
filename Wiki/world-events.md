@@ -7,7 +7,7 @@ TIPS: Best for early game XP and loot farming.
 ## Harbinger Event
 Boss: drone-like mechanical boss.
 Where: go to the /outpost you will find a portal next to the piano.
-Entry: requires 1M RP keycard.
+Entry: requires 1M RP keycard and atleast one piece of IMPACT. Without that you instantly die wasting your card.
 Strategy: Enter the deep cave to get cover from rockets and shoot it down with an M2.
 NOTES: Only one shot per key. If you die, you cannot re-enter, but your loot will remain outside. You can re-do the boss in about 30m. I also suggest you unlock the anti-fire skill on the healing /st, as the harbinger starts shooting rays of fire at one point.
 ## Harbor Event
