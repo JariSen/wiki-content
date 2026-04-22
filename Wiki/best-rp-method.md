@@ -72,7 +72,7 @@ Tactical Gloves Method (step-by-step)
 
 ## 2400% Profit??? 
 Here is the calculation:
-- Tactical Gloves for the best price at 20. Gloth for the best selling price of 2. You get 288 gloth out of one glove and 12 leather. 288x2=576 + selling value of leather for example 20 = 596 RP
+- Tactical Gloves for the best price at 20. Cloth for the best selling price of 2. You get 288 Cloth out of one glove and 12 leather. 288x2=576 + selling value of leather for example 20 = 596 RP
 - 596 RP divided by 20 Scrap = 29,8 RP per Scrap.
  - Procentage Calculation: 29,8*100=2980%
 - Because you can't buy the gloves always for the best price I took 2400%.
